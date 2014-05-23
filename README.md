@@ -8,6 +8,6 @@ I did not make most of these, and thus I take no credit for any of them. These f
 Current Caches
 ==============
 
-GALE01 (Super Smash Bros. Melee) by Crediar
-GMSE01 (Super Mario Sunshine) by Intermet
-GIKE70 (Ikaruga) by thedax
+* GALE01 (Super Smash Bros. Melee) by Crediar
+* GMSE01 (Super Mario Sunshine) by Intermet
+* GIKE70 (Ikaruga) by thedax
