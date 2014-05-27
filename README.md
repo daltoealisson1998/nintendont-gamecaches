@@ -11,3 +11,4 @@ Current Caches
 * GALE01 (Super Smash Bros. Melee) by Crediar
 * GMSE01 (Super Mario Sunshine) by Intermet
 * GIKE70 (Ikaruga) by thedax
+* GZ2E01 (Zelda: Twilight Princess) by faku-1810
