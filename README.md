@@ -12,3 +12,4 @@ Current Caches
 * GMSE01 (Super Mario Sunshine) by Intermet
 * GIKE70 (Ikaruga) by thedax
 * GZ2E01 (Zelda: Twilight Princess) by faku-1810
+* GZLE01 (Zelda: Wind Waker) by VinsCool
