@@ -13,3 +13,4 @@ Current Caches
 * GIKE70 (Ikaruga) by thedax
 * GZ2E01 (Zelda: Twilight Princess) by faku-1810
 * GZLE01 (Zelda: Wind Waker) by VinsCool
+* GZ3E70 (Dragon Ball Z: Budokai 2) by Goku Junior
