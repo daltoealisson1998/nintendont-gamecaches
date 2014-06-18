@@ -3,7 +3,7 @@ nintendont-gamecaches
 
 An unofficial repository for holding cache.txt files for games ran under Nintendont.
 
-I did not make most of these, and thus I take no credit for any of them. These files can help speed up loading times in Nintendont for the Wii and Wii U.
+I did not make most of these, and thus I take no credit for any of them, nor claim any responsibility for hangs, crashes, kittens getting stuck in trees, or acts of God/Buddha/other supernatural beings. These files can help speed up loading times in Nintendont for the Wii and Wii U.
 
 Current Caches
 ==============
@@ -15,3 +15,4 @@ Current Caches
 * GZLE01 (Zelda: Wind Waker) by VinsCool
 * GZ3E70 (Dragon Ball Z: Budokai 2) by Goku Junior
 * GUPE8P (Shadow the Hedgehog) by Goku Junior
+* GNSE8P (Sonic Adventure 2: Battle) by Goku Junior
