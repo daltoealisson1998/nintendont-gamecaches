@@ -17,3 +17,4 @@ Current Caches
 * GUPE8P (Shadow the Hedgehog) by Goku Junior
 * GNSE8P (Sonic Adventure 2: Battle) by Goku Junior
 * G2CE52 (True Crime: New York City) by Goku Junior
+* GLEE08 (Resident Evil 3) by Nemesis90 and improved by Goku Junior
