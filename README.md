@@ -3,7 +3,7 @@ nintendont-gamecaches
 
 An unofficial repository for holding cache.txt files for games ran under Nintendont.
 
-I did not make most of these, and thus I take no credit for any of them, nor claim any responsibility for hangs, crashes, kittens getting stuck in trees, or acts of God/Buddha/other supernatural beings. These files can help speed up loading times in Nintendont for the Wii and Wii U.
+These caches are community made, and thus all credit for creation and editing goes to those listed below. If your Wii (U) hangs, crashes, kittens getting stuck in trees, or acts of God/Buddha/other supernatural beings, then it's your own responsibility, as you yourself chose to use these files. These files can help speed up loading times in Nintendont for the Wii and Wii U.
 
 Current Caches
 ==============
