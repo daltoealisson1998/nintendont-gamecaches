@@ -18,3 +18,4 @@ Current Caches
 * GNSE8P (Sonic Adventure 2: Battle) by Goku Junior
 * G2CE52 (True Crime: New York City) by Goku Junior
 * GLEE08 (Resident Evil 3) by Nemesis90 and improved by Goku Junior
+* GFZE01 (F-Zero GX) by Greyrogue. This cache.txt is needed to make the game working.
