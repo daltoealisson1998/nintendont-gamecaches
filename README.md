@@ -20,3 +20,4 @@ Current Caches
 * GLEE08 (Resident Evil 3) by Nemesis90 and improved by Goku Junior
 * GFZE01 (F-Zero GX) by Greyrogue. This cache.txt is needed to make the game working, with the latest nintendont version
 * GHQE7D (The Simpsons - Hit and Run) by Goku Junior
+* GKYE01 (Kirby Air Ride) by DoqtorKirby
